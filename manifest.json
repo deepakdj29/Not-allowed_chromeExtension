@@ -2,7 +2,7 @@
     "name": "You Are Not Allowed",
     "description": "This is a chrome extension to restrict anyone on using any url",
     "manifest_version": 3,
-    "author": "Deepsk Bhatt",
+    "author": "Deepak Bhatt",
    "version": "0.0.1.0",
    "content_scripts": [{
         "matches" : ["<all_urls>"],
