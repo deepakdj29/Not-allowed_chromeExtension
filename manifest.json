@@ -11,7 +11,7 @@
    ],
 
    "action": {
-     "default_popup": "Popup.html",
+     "default_popup": "Index.html",
      "default_title": "Not Allowed Activated"
    }
 }
